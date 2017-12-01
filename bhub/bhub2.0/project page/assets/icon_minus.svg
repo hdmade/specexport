@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="4px" viewBox="0 0 12 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_minus</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Bhub-3.0-v2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Project---Automatic-Contributions-Mobilize-Savings---Tags" transform="translate(-103.000000, -995.000000)" fill="#FFFFFF">
+            <g id="First-Look" transform="translate(0.000000, 58.000000)">
+                <g id="Group-5" transform="translate(20.000000, 920.000000)">
+                    <path d="M93.9387528,21.9175947 L91.0211581,19 L89,16.9788419 L86.0824053,14.0612472 C86.032294,14.0222717 85.9766147,14 85.9097996,14 C85.8429844,14 85.7928731,14.0222717 85.7427617,14.0612472 L84.0612472,15.7427617 C84.0222717,15.7928731 84,15.8429844 84,15.9097996 C84,15.9766147 84.0222717,16.032294 84.0612472,16.0824053 L86.9788419,19 L89,21.0211581 L91.9175947,23.9387528 C91.967706,23.9777283 92.0233853,24 92.0902004,24 C92.1570156,24 92.2071269,23.9777283 92.2572383,23.9387528 L93.9387528,22.2572383 C93.9777283,22.2071269 94,22.1570156 94,22.0902004 C94,22.0233853 93.9777283,21.967706 93.9387528,21.9175947 Z" id="icon_minus" transform="translate(89.000000, 19.000000) rotate(-45.000000) translate(-89.000000, -19.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
