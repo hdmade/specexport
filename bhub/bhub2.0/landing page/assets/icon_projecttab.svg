@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="26px" viewBox="0 0 20 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_projecttab</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Bhub-3.0-v2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="project-tab-landing" transform="translate(-379.000000, -364.000000)" fill="#E8A800">
+            <g id="Group-5" transform="translate(279.000000, 334.000000)">
+                <path d="M119.11125,39.157446 C119.11125,39.0093796 119.049556,38.8859909 118.963184,38.7749411 L111.066309,30.878066 C110.955259,30.7916939 110.83187,30.7299995 110.683804,30.7299995 L101.738125,30.7299995 C100.862065,30.7299995 100.15875,31.433315 100.15875,32.3093746 L100.15875,54.420625 C100.15875,55.2966846 100.862065,56 101.738125,56 L117.531875,56 C118.407935,56 119.11125,55.2966846 119.11125,54.420625 L119.11125,39.157446 Z" id="icon_projecttab"></path>
+            </g>
+        </g>
+    </g>
+</svg>
