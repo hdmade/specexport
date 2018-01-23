@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="17px" viewBox="0 0 26 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_top</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1230.000000, -2747.000000)">
+        <g id="footer" transform="translate(0.000000, 2646.000000)" fill="#FFFFFF">
+            <g id="Group-5">
+                <g id="back-to-top" transform="translate(1204.000000, 0.000000)">
+                    <path d="M34.7720212,96.5 C34.8894656,96.5 35.0166952,96.5500669 35.1537137,96.6502022 L47.3091528,109.086943 C47.5636157,109.347295 47.5636157,109.607643 47.3091528,109.867995 L35.1537137,122.304736 C34.8992508,122.565088 34.6447916,122.565088 34.3903287,122.304736 L30.6908472,118.519641 C30.4363843,118.259289 30.4363843,117.998941 30.6908472,117.73859 L38.7651123,109.477469 L30.6908472,101.216349 C30.4363843,100.955997 30.4363843,100.695649 30.6908472,100.435297 L34.3903287,96.6502022 C34.5273472,96.5500669 34.6545768,96.5 34.7720212,96.5 Z" id="icon_top" transform="translate(39.000000, 109.500000) scale(-1, 1) rotate(-90.000000) translate(-39.000000, -109.500000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
