@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="18px" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_donate</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Designs-KC-Round2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Navigation" transform="translate(-685.000000, -576.000000)" fill="#FFBE3F">
+            <g id="Nav-Dropdown-Copy" transform="translate(147.000000, 559.000000)">
+                <g id="Header-Copy">
+                    <g id="Group-2" transform="translate(457.000000, 0.000000)">
+                        <g id="donate">
+                            <path d="M98.2207054,27.4385461 L91.3007155,34.3780564 C91.2031134,34.4463779 91.1152715,34.4951789 90.9981489,34.4951789 C90.8810264,34.4951789 90.7639039,34.4463779 90.6955824,34.3780564 L83.7755925,27.4385461 C80.4668808,24.1298344 80.2619164,20.7040002 82.3896425,18.5957946 C84.4978481,16.4973491 87.9236823,16.4973491 90.0221278,18.5957946 C90.4222965,18.9959632 90.7443834,19.4351727 90.9981489,19.8939027 C91.2519144,19.4351727 91.5740014,18.9959632 91.9741701,18.5957946 C94.0726155,16.4680685 97.4984497,16.4680685 99.6261758,18.5957946 C101.734381,20.7040002 101.529417,24.1298344 98.2207054,27.4385461 Z" id="icon_donate"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
