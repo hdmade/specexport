@@ -1,0 +1,226 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	background-color:#333;
+	margin:0;
+}
+
+#animation{
+	visibility: hidden;
+}
+
+#banner {
+	position: absolute;
+	width: 300px;
+	height: 250px;
+	background-color: #FFFFFF;
+	padding: 0px;
+	margin: 0px;
+	overflow: hidden;
+	border: 1px solid #FFFFFF;
+	box-sizing: border-box;
+}
+
+#bg_dark{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 300px;
+	height: 250px;
+	background: url(images/bg_dark.jpg) no-repeat;
+}
+
+#bg_light_white{
+	position: absolute;
+	left: 0px;
+	opacity: 0;
+	top: 0px;
+	width: 300px;
+	height: 250px;
+	background: url(images/bg_light_white.jpg) no-repeat;
+}
+
+#bg_light_color{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	opacity: 0;
+	width: 300px;
+	height: 250px;
+	background: url(images/bg_light_color.jpg) no-repeat;
+}
+
+#bg_endframe{
+	position: absolute;
+	left: 0px;
+	opacity: 0;
+	top: 0px;
+	width: 300px;
+	height: 250px;
+	background: url(images/bg_endframe.jpg) no-repeat;
+}
+
+#mask1{
+	position: absolute;
+	left: 63px;
+	top: 57px;
+	width: 65px;
+	height: 32px;
+	overflow: hidden;
+}
+
+#tag_best{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 65px;
+	height: 32px;
+	background: url(images/tag_best.png) no-repeat;
+}
+
+#mask2{
+	position: absolute;
+	left: 139px;
+	top: 57px;
+	width: 99px;
+	height: 31px;
+	overflow: hidden;
+}
+
+#tag_teams{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 99px;
+	height: 31px;
+	background: url(images/tag_teams.png) no-repeat;
+}
+
+#mask3{
+	position: absolute;
+	left: 25px;
+	top: 110px;
+	width: 147px;
+	height: 32px;
+	overflow: hidden;
+}
+
+#tag_brightest{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 147px;
+	height: 32px;
+	background: url(images/tag_brightest.png) no-repeat;
+}
+
+#mask4{
+	position: absolute;
+	left: 184px;
+	top: 111px;
+	width: 92px;
+	height: 31px;
+	overflow: hidden;
+}
+
+#tag_stars{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 92px;
+	height: 31px;
+	background: url(images/tag_stars.png) no-repeat;
+}
+
+#mask5{
+	position: absolute;
+	left: 39px;
+	top: 162px;
+	width: 123px;
+	height: 32px;
+	overflow: hidden;
+}
+
+#tag_biggest{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 123px;
+	height: 32px;
+	background: url(images/tag_biggest.png) no-repeat;
+}
+
+#mask6{
+	position: absolute;
+	left: 173px;
+	top: 163px;
+	width: 90px;
+	height: 31px;
+	overflow: hidden;
+}
+
+#tag_stage{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 90px;
+	height: 31px;
+	background: url(images/tag_stage.png) no-repeat;
+}
+
+#mask7{
+	position: absolute;
+	left: 25px;
+	top: 181px;
+	width: 250px;
+	height: 29px;
+	overflow: hidden;
+}
+
+#teams{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 250px;
+	height: 29px;
+	background: url(images/teams.png) no-repeat;
+}
+
+#mask8{
+	position: absolute;
+	left: 60px;
+	top: 217px;
+	width: 179px;
+	height: 26px;
+	overflow:hidden;
+}
+
+#tunein{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 179px;
+	height: 26px;
+	background: url(images/tunein_longlead.png) no-repeat;
+}
+
+#wnh_large{
+	position: absolute;
+	left: 11px;
+	top: 36px;
+	width: 278px;
+	height: 169px;
+	background: url(images/wnh_large.png) no-repeat;
+}
+
+#wnh{
+	position: absolute;
+	left: 53px;
+	top: 6px;
+	width: 193px;
+	height: 117px;
+	background: url(images/wnh.png) no-repeat;
+}
+
+
