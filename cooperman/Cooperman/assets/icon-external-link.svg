@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-external-link</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Resources-Desktop" transform="translate(-858.000000, -711.000000)">
+            <g id="Group-2" transform="translate(575.000000, 565.000000)">
+                <g id="Group-3-Copy-8" transform="translate(160.000000, 129.000000)">
+                    <g id="icon-external-link" transform="translate(124.000000, 17.000000)">
+                        <polygon id="↖" fill="#FF6B39" fill-rule="nonzero" transform="translate(9.489038, 6.243750) scale(-1, 1) translate(-9.489038, -6.243750) " points="14.8552883 12.4875 15.7327883 11.6015625 6.26591332 2.1346875 8.40060082 0 3.24528832 0 3.24528832 5.146875 5.37997582 3.0121875"></polygon>
+                        <polyline id="Path" stroke="#FF6B39" stroke-width="1.44" transform="translate(7.264519, 8.618468) scale(-1, 1) translate(-7.264519, -8.618468) " points="5.80203406 1.69353724 14.5290383 1.69353724 14.5290383 15.5433984 -9.20863386e-14 15.5433984 -9.20863386e-14 7.4475"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
